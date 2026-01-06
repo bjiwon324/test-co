@@ -6,8 +6,16 @@ export default function Home() {
           <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
             ALL About
           </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            test site
+          <p className="text-lg break-keep leading-8 text-zinc-600 dark:text-zinc-400">
+            현재 페이지 리뉴얼 중입니다. 곧 멋진 모습으로 찾아뵙겠습니다!👍
+            <br />
+            감사합니다.
+          </p>
+          <p className="text-lg break-keep leading-8 text-zinc-600 dark:text-zinc-400">
+            This page is currently under renovation. <br />
+            We will be back soon with a great new look!👍
+            <br />
+            Thank you.
           </p>
         </div>
         <div className="flex flex-col gap-4 text-base font-medium sm:flex-row"></div>
